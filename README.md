@@ -1,6 +1,6 @@
 # take-home
 
-This template should help get you started developing with Vue 3 in Vite.
+This boiler plate should help you get going on your take home assessment. 
 
 ## Recommended IDE Setup
 
@@ -17,19 +17,16 @@ yarn
 ```
 
 ### Compile and Hot-Reload for Development
-
 ```sh
 yarn dev
 ```
 
 ### Compile and Minify for Production
-
 ```sh
 yarn build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
-
 ```sh
 yarn lint
 ```
